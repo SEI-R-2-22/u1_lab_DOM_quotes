@@ -1,36 +1,39 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
-
 # Manipulating the DOM using JavaScript
 
-## Set up
+![Conan](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Fgifrific.com%2Fwp-content%2Fuploads%2F2013%2F01%2FConan-Obrien-Shock-then-Approval.gif%3Fssl%3D1&f=1&nofb=1)
 
-1. Clone this repo and `cd js-dom-quotes-lab`
-1. Open the index page in your browser: `chrome index.html`
-1. Open Chrome's developer tools: <kbd>command + option + i</kbd>
-1. Select and inspect the "elements" from top ribbon
+## Homework Overview
+In this lab, we'll practice manipulating the DOM with JavaScript using the tools we just learned in our previous lesson. Don't be afraid, you've got this!
 
-## Exercise
+## Getting Started
+  - Clone this repo and `cd js-dom-quotes-lab`
+  - Open the index page in your browser: `index.html`
+  - Open Chrome's developer tools: <kbd>command + option + i</kbd>
+  - Select and inspect the "elements" from top ribbon
 
+## Instructions
 This is an exercise in finding elements on the page (in the DOM).
 
-Your task is to write javascript, in the `script.js` file to retrieve the objects which represent these elements.
+Your task is to write JavaScript in the `script.js` file to retrieve the objects which represent these elements.
 
 Start with these:
-
-1. Select the `<body>`
-1. Select the `<header>`
-1. Select all of the elements with class "quote"
-1. Select all of the subject elements
-1. Select the navigation links
-1. Select all the quotes in the "life" section.
-1. Using **relative** selection (i.e., don't use `querySelector`, `getElementBy...` etc.), select the `<p>` element containing the second Mark Twain quote
-1. Do the same using a query selector
-1. Select the 'Quotes About Motivation' heading
-1. The first section has a class 'subject', preserve it, and add a class 'simplicity' as well.
-
+  1. Select the `<body>`
+  2. Select the `<header>`
+  3. Select all of the elements with class "quote"
+  4. Select all of the subject elements
+  5. Select the navigation links
+  6. Select all the quotes in the "life" section.
+  7. Using **relative** selection (i.e., don't use `querySelector`, `getElementBy...` etc.), select the `<p>` element containing the second Mark Twain quote
+  8. Do the same using a query selector
+  9. Select the 'Quotes About Motivation' heading
+  10. The first section has a class 'subject', preserve it, and add a class 'simplicity' as well.
 
 ### Bonus
+  - Create an element with the text of your favorite quote.
+  - Add the element that you created in the previous step to the layout by appending it to a corresponding subject section.
+  - Add the author's last name, as a class name, to one of the quotes.
 
-- Create an element with the text of your favorite quote.
-- Add the element that you created in the previous step to the layout by appending it to a corresponding subject section.
-- Add the author's last name, as a class name, to one of the quotes.
+![JJ](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.buzzfeed.com%2Fbuzzfeed-static%2Fstatic%2F2014-01%2Fenhanced%2Fwebdr06%2F27%2F15%2Fanigif_enhanced-buzz-22371-1390853307-13.gif&f=1&nofb=1)
+
+## Resources
+  - [Intro to DOM](https://github.com/SEI-R-1-25/u1_lesson_js_dom)
