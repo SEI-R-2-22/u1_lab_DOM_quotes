@@ -2,7 +2,7 @@
 
 ![Conan](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Fgifrific.com%2Fwp-content%2Fuploads%2F2013%2F01%2FConan-Obrien-Shock-then-Approval.gif%3Fssl%3D1&f=1&nofb=1)
 
-## Homework Overview
+## Overview
 In this lab, we'll practice manipulating the DOM with JavaScript using the tools we just learned in our previous lesson. Don't be afraid, you've got this!
 
 ## Getting Started
