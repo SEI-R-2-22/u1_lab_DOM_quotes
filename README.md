@@ -36,4 +36,4 @@ Start with these:
 ![JJ](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.buzzfeed.com%2Fbuzzfeed-static%2Fstatic%2F2014-01%2Fenhanced%2Fwebdr06%2F27%2F15%2Fanigif_enhanced-buzz-22371-1390853307-13.gif&f=1&nofb=1)
 
 ## Resources
-  - [Intro to DOM](https://github.com/SEI-R-1-25/u1_lesson_js_dom)
+  - [Intro to DOM](https://github.com/SEI-R-4-26/u1_lesson_DOM)
