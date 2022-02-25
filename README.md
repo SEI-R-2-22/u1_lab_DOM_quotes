@@ -8,7 +8,7 @@ In this lab, we'll practice manipulating the DOM with JavaScript using the tools
 
 ## Getting Started
 
-- Clone this repo and `cd js-dom-quotes-lab`
+- Fork and Clone this repo and `cd js-dom-quotes-lab`
 - Open the index page in your browser: `index.html`
 - Open Chrome's developer tools: <kbd>command + option + i</kbd>
 - Select and inspect the "elements" from top ribbon
